@@ -1,0 +1,3 @@
+a-m-team/AM-Thinking-v1-Distilled
+allenai/tulu-3-sft-mixture
+open-thoughts/OpenThoughts2-1M
