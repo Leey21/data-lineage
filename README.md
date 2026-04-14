@@ -140,11 +140,13 @@ bash run.sh --help
 If you use this repository, please cite:
 
 ```bibtex
-@inproceedings{tracing_the_roots_2026,
-  title     = {Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs},
-  author    = {TODO},
-  booktitle = {Proceedings of ACL 2026},
-  year      = {2026},
-  url       = {TODO}
+@misc{li2026tracingrootsmultiagentframework,
+      title={Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs}, 
+      author={Yu Li and Xiaoran Shang and Qizhi Pei and Yun Zhu and Xin Gao and Honglin Lin and Zhanping Zhong and Zhuoshi Pan and Zheng Liu and Xiaoyang Wang and Conghui He and Dahua Lin and Feng Zhao and Lijun Wu},
+      year={2026},
+      eprint={2604.10480},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2604.10480}, 
 }
 ```
