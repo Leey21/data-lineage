@@ -5,6 +5,8 @@
 
 **Accepted by ACL 2026 Main Conference**
 
+📄 [arXiv Paper](https://arxiv.org/abs/2604.10480)
+
 🌐 [Web Demo](https://arena.opendatalab.org.cn/data-lineage/website/index.html)
 
 <p>
